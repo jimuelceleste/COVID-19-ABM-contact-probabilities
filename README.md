@@ -1,4 +1,4 @@
-# COVID-19 ABM with contact-probabilities
+# COVID-19 ABM with contact probabilities
 
 A generic COVID-19 agent-based model (age-stratified, quarantine modified, with non-linear incidence) coupled with the social contact matrices of Prem et al. [1] as interaction probabilities. 
 
